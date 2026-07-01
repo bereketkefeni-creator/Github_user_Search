@@ -4,7 +4,7 @@ A fast, clean, and feature-rich GitHub profile explorer built with vanilla HTML,
 
 ![Preview](preview.png)
 
-Live demo: [bereketkefeni-creator.github.io/github-user-search](https://bereketkefeni-creator.github.io/Github-user-search)
+Live demo: [bereketkefeni-creator.github.io/Github_user_Search](https://bereketkefeni-creator.github.io/Github_user_Search/)
 
 ---
 
